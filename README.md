@@ -6,7 +6,7 @@ Experiments Notebooks for Chilean Hate Speech Paper created for reproducbility p
 
 - **Experiment Notebooks** — Code to reproduce all experiments reported in the paper.
 - **Annotation Guidelines** — Instructions and criteria used for labeling hate speech instances.
-- **Datasets** — The annotated corpora used in this work. **The dataset we created can be found in [`data/`](data/)**
+- **Datasets** — The annotated corpora used in this work. **The dataset we created can be found in [`data/`]**
 
 ## Data
 
